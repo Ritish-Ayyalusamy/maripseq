@@ -1,0 +1,169 @@
+hub hg38
+shortLabel ratio
+longLabel ratio datasets
+useOneFile on
+email ritish.ayyalusamy.7872@student.uu.se
+
+genome hg38
+
+track SAP_PlusDOX_Input_Rep2
+shortLabel SAP_PlusDOX_Input_Rep2
+longLabel SAP_PlusDOX_Input_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library10_SAP_PlusDOX_Input_Rep2_S10_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track SAP_MinusDOX_Input_Rep1
+shortLabel SAP_MinusDOX_Input_Rep1
+longLabel SAP_MinusDOX_Input_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library1_SAP_MinusDOX_Input_Rep1_S1_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track MF_NB_LR_tumor_01_Input
+shortLabel MF_NB_LR_tumor_01_Input
+longLabel MF_NB_LR_tumor_01_Input
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library23_MF_NB_LR_tumor_01_Input_S19_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track MF_NB_LR_tumor_01_m6A
+shortLabel MF_NB_LR_tumor_01_m6A
+longLabel MF_NB_LR_tumor_01_m6A
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library24_MF_NB_LR_tumor_01_m6A_S20_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track MF_NB_LR_tumor_02_Input
+shortLabel MF_NB_LR_tumor_02_Input
+longLabel MF_NB_LR_tumor_02_Input
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library25_MF_NB_LR_tumor_02_Input_S21_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track MF_NB_LR_tumor_02_m6A
+shortLabel MF_NB_LR_tumor_02_m6A
+longLabel MF_NB_LR_tumor_02_m6A
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library26_MF_NB_LR_tumor_02_m6A_S22_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track MF_NB_LR_tumor_03_Input
+shortLabel MF_NB_LR_tumor_03_Input
+longLabel MF_NB_LR_tumor_03_Input
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library27_MF_NB_LR_tumor_03_Input_S23_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track MF_NB_LR_tumor_03_m6A
+shortLabel MF_NB_LR_tumor_03_m6A
+longLabel MF_NB_LR_tumor_03_m6A
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library28_MF_NB_LR_tumor_03_m6A_S24_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track MF_NB_LR_tumor_04_Input
+shortLabel MF_NB_LR_tumor_04_Input
+longLabel MF_NB_LR_tumor_04_Input
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library29_MF_NB_LR_tumor_04_Input_S25_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track MF_NB_LR_tumor_04_m6A
+shortLabel MF_NB_LR_tumor_04_m6A
+longLabel MF_NB_LR_tumor_04_m6A
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library30_MF_NB_LR_tumor_04_m6A_S26_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track SAP_MinusDOX_m6A
+shortLabel SAP_MinusDOX_m6A
+longLabel SAP_MinusDOX_m6A
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library2_SAP_MinusDOX_m6A_S2_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track SAP_PlusDOX_Input_Rep1
+shortLabel SAP_PlusDOX_Input_Rep1
+longLabel SAP_PlusDOX_Input_Rep1
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library3_SAP_PlusDOX_Input_Rep1_S3_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track SAP_PlusDOX_m6A
+shortLabel SAP_PlusDOX_m6A
+longLabel SAP_PlusDOX_m6A
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library4_SAP_PlusDOX_m6A_S4_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track SHEP_MinusDOX_Input
+shortLabel SHEP_MinusDOX_Input
+longLabel SHEP_MinusDOX_Input
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library5_SHEP_MinusDOX_Input_S5_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track SHEP_MinusDOX_m6A
+shortLabel SHEP_MinusDOX_m6A
+longLabel SHEP_MinusDOX_m6A
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library6_SHEP_MinusDOX_m6A_S6_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track SHEP_PlusDOX_Input
+shortLabel SHEP_PlusDOX_Input
+longLabel SHEP_PlusDOX_Input
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library7_SHEP_PlusDOX_Input_S7_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track SHEP_PlusDOX_m6A
+shortLabel SHEP_PlusDOX_m6A
+longLabel SHEP_PlusDOX_m6A
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library8_SHEP_PlusDOX_m6A_S8_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track SAP_MinusDOX_Input_Rep2
+shortLabel SAP_MinusDOX_Input_Rep2
+longLabel SAP_MinusDOX_Input_Rep2
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library9_SAP_MinusDOX_Input_Rep2_S9_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
