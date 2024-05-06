@@ -6,7 +6,7 @@ email ritish.ayyalusamy.7872@student.uu.se
 
 genome hg38
 
-track bigDataUrl=https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library10_SAP_PlusDOX_Input_Rep2_S10_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw type=bigWig
+track bigDataUrl=https://export.uppmax.uu.se/snic2024-22-275/m6aripseq/Library10_SAP_PlusDOX_Input_Rep2_S10_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw type=bw
 track SAP_PlusDOX_Input_Rep2
 shortLabel SAP_PlusDOX_Input_Rep2
 longLabel SAP_PlusDOX_Input_Rep2
