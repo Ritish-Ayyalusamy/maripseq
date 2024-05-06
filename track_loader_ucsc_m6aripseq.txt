@@ -1,8 +1,8 @@
 hub hg38
-shortLabel ratio
-longLabel ratio datasets
+shortLabel hg38_m6aripseq
+longLabel hg38_m6aripseq
 useOneFile on
-email ritish.ayyalusamy.7872@student.uu.se
+email napbonish@outlook.com
 
 genome hg38
 
