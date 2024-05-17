@@ -167,3 +167,39 @@ color 0,128,128
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library9_SAP_MinusDOX_Input_Rep2_S9_R1_001_trimmed.hisat2.nodup.uniq.sorted_merged.bw
+
+track SHEP_MinusDOX_Input_f
+shortLabel SHEP_MinusDOX_Input_f
+longLabel SHEP_MinusDOX_Input_f
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library5_SHEP_MinusDOX_Input_S5_R1_001_trimmed.hisat2.nodup.uniq.sorted.fwd.spikeInNorm.bam.bw
+
+track SHEP_MinusDOX_m6a_f
+shortLabel SHEP_MinusDOX_m6a_f
+longLabel SHEP_MinusDOX_m6a_f
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library6_SHEP_MinusDOX_m6A_S6_R1_001_trimmed.hisat2.nodup.uniq.sorted.fwd.spikeInNorm.bam.bw
+
+track SHEP_PlusDOX_Input_f
+shortLabel SHEP_PlusDOX_Input_f
+longLabel SHEP_PlusDOX_Input_f
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library7_SHEP_PlusDOX_Input_S7_R1_001_trimmed.hisat2.nodup.uniq.sorted.fwd.spikeInNorm.bam.bw
+
+track SHEP_PlusDOX_m6a_f
+shortLabel SHEP_PlusDOX_m6a_f
+longLabel SHEP_PlusDOX_m6a_f
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library8_SHEP_PlusDOX_m6A_S8_R1_001_trimmed.hisat2.nodup.uniq.sorted.fwd.spikeInNorm.bam.bw
