@@ -203,3 +203,111 @@ color 0,128,128
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library8_SHEP_PlusDOX_m6A_S8_R1_001_trimmed.hisat2.nodup.uniq.sorted.fwd.spikeInNorm.bam.bw
+
+track SKNBE2_NR_InputRNA_f
+shortLabel SKNBE2_NR_InputRNA_f
+longLabel SKNBE2_NR_InputRNA_f
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library11_SKNBE2_NR_InputRNA_S11_R1_001_trimmed.hisat2.nodup.uniq.sorted.fwd.bam.bw
+
+track SKNBE2_NR_InputRNA_r
+shortLabel SKNBE2_NR_InputRNA_r
+longLabel SKNBE2_NR_InputRNA_r
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library11_SKNBE2_NR_InputRNA_S11_R1_001_trimmed.hisat2.nodup.uniq.sorted.rev.bam.bw
+
+track SKNBE2_DRImR_RLR_InputRNA_f
+shortLabel SKNBE2_DRImR_RLR_InputRNA_f
+longLabel SKNBE2_DRImR_RLR_InputRNA_f
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library12_SKNBE2_DRImR_RLR_InputRNA_S12_R1_001_trimmed.hisat2.nodup.uniq.sorted.fwd.bam.bw
+
+track SKNBE2_DRImR_RLR_InputRNA_r
+shortLabel SKNBE2_DRImR_RLR_InputRNA_r
+longLabel SKNBE2_DRImR_RLR_InputRNA_r
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library12_SKNBE2_DRImR_RLR_InputRNA_S12_R1_001_trimmed.hisat2.nodup.uniq.sorted.rev.bam.bw
+
+track SKNBE2_DRImR_RNA_f
+shortLabel SKNBE2_DRImR_RNA_f
+longLabel SKNBE2_DRImR_RNA_f
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library13_SKNBE2_DRImR_RNA_S13_R1_001_trimmed.hisat2.nodup.uniq.sorted.fwd.bam.bw
+
+track SKNBE2_DRImR_RNA_r
+shortLabel SKNBE2_DRImR_RNA_r
+longLabel SKNBE2_DRImR_RNA_r
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library13_SKNBE2_DRImR_RNA_S13_R1_001_trimmed.hisat2.nodup.uniq.sorted.rev.bam.bw
+
+track SKNBE2_IgG_DRIP_RNA_f
+shortLabel SKNBE2_IgG_DRIP_RNA_f
+longLabel SKNBE2_IgG_DRIP_RNA_f
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library14_SKNBE2_IgG_DRIP_RNA_S14_R1_001_trimmed.hisat2.nodup.uniq.sorted.fwd.bam.bw
+
+track SKNBE2_IgG_DRIP_RNA_r
+shortLabel SKNBE2_IgG_DRIP_RNA_r
+longLabel SKNBE2_IgG_DRIP_RNA_r
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library14_SKNBE2_IgG_DRIP_RNA_S14_R1_001_trimmed.hisat2.nodup.uniq.sorted.rev.bam.bw
+
+track SKNBE2_DRIP_RNA_f
+shortLabel SKNBE2_DRIP_RNA_f
+longLabel SKNBE2_DRIP_RNA_f
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library15_SKNBE2_DRIP_RNA_S15_R1_001_trimmed.hisat2.nodup.uniq.sorted.fwd.bam.bw
+
+track SKNBE2_DRIP_RNA_r
+shortLabel SKNBE2_DRIP_RNA_r
+longLabel SKNBE2_DRIP_RNA_r
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library15_SKNBE2_DRIP_RNA_S15_R1_001_trimmed.hisat2.nodup.uniq.sorted.rev.bam.bw
+
+track SKNBE2_RNaseH_DRIP_RNA_f
+shortLabel SKNBE2_RNaseH_DRIP_RNA_f
+longLabel SKNBE2_RNaseH_DRIP_RNA_f
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library16_SKNBE2_RNaseH_DRIP_RNA_S16_R1_001_trimmed.hisat2.nodup.uniq.sorted.fwd.bam.bw
+
+track SKNBE2_RNaseH_DRIP_RNA_r
+shortLabel SKNBE2_RNaseH_DRIP_RNA_r
+longLabel SKNBE2_RNaseH_DRIP_RNA_r
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/m6aripseq/Library16_SKNBE2_RNaseH_DRIP_RNA_S16_R1_001_trimmed.hisat2.nodup.uniq.sorted.rev.bam.bw
