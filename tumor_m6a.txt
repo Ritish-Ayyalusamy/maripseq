@@ -240,24 +240,6 @@ type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/tumor_m6a/Library30_MF_NB_LR_tumor_04_m6A_S26_R1_001_trimmed.hisat2.nodup.uniq.sorted.bam.bw
 
-track MF_NB_LR_tumor_04_Input
-shortLabel MF_NB_LR_tumor_04_Input
-longLabel MF_NB_LR_tumor_04_Input
-visibility full
-color 0,128,128
-type bigWig
-maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/tumor_m6a/Library29_MF_NB_LR_tumor_04_Input_S25_R1_001_trimmed.hisat2.nodup.uniq.sorted.bam.bw
-
-track MF_NB_LR_tumor_04_m6A
-shortLabel MF_NB_LR_tumor_04_m6A
-longLabel MF_NB_LR_tumor_04_m6A
-visibility full
-color 0,128,128
-type bigWig
-maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/naiss2024-22-275/tumor_m6a/Library30_MF_NB_LR_tumor_04_m6A_S26_R1_001_trimmed.hisat2.nodup.uniq.sorted.bam.bw
-
 track AD9_Input
 shortLabel AD9_Input
 longLabel AD9_Input
